@@ -1,6 +1,8 @@
-MIT License
+MIT License (with Attribution & Citation Requirement)
 
-Copyright (c) 2026 Murataev Denis
+Copyright (c) 2026 Denis Murataev (@mapboxer)
+Repository: https://github.com/mapboxer/backyard-astro-planner
+Author: Denis Murataev (@mapboxer)
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -9,8 +11,19 @@ to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
 copies of the Software, and to permit persons to whom the Software is
 furnished to do so, subject to the following conditions:
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+1. The above copyright notice, this permission notice, and the following
+   attribution notice shall be included in all copies or substantial portions
+   of the Software.
+
+2. Mandatory Attribution & Citation: Any use, redistribution, reproduction,
+   modification, or incorporation of this Software (or any portion thereof)
+   in other projects, publications, articles, videos, or services must provide
+   prominent credit and an active link to the original author and repository:
+   - Author: Denis Murataev (@mapboxer)
+   - Repository: https://github.com/mapboxer/backyard-astro-planner
+   - Citation format:
+     "Backyard Astro Planner by Denis Murataev (@mapboxer),
+      https://github.com/mapboxer/backyard-astro-planner"
 
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
 IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
